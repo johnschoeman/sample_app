@@ -90,5 +90,4 @@ Rails.application.configure do
     :domain         => 'heroku.com',
     :enable_strarttls_auto => true
   }
-  }
 end
